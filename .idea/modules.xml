@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/douban book.lbaction/douban book.lbaction.iml" filepath="$PROJECT_DIR$/douban book.lbaction/douban book.lbaction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/douban movie.lbaction/douban movie.lbaction.iml" filepath="$PROJECT_DIR$/douban movie.lbaction/douban movie.lbaction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/douban music.lbaction/douban music.lbaction.iml" filepath="$PROJECT_DIR$/douban music.lbaction/douban music.lbaction.iml" />
+    </modules>
+  </component>
+</project>
+
