@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleIconFile</key>
+	<string>icon.png</string>
+	<key>CFBundleIdentifier</key>
+	<string>org.dsiu.LaunchBar.action.weather</string>
+	<key>CFBundleName</key>
+	<string>Local weather and forecast</string>
+	<key>CFBundleVersion</key>
+	<string>1.0</string>
+	<key>LBTextInputTitle</key>
+	<string>weather</string>
+	<key>LBScripts</key>
+	<dict>
+		<key>LBDefaultScript</key>
+		<dict>
+			<key>LBAcceptedArgumentTypes</key>
+			<array>
+				<string>string</string>
+			</array>
+			<key>LBRequiresArgument</key>
+			<true/>
+			<key>LBReturnsResult</key>
+			<true/>
+			<key>LBScriptName</key>
+			<string>default.js</string>
+		</dict>
+	</dict>
+	<key>LBDescription</key>
+	<dict>
+		<key>LBSummary</key>
+		<string>Local weather and forecast</string>
+		<key>LBRequirements</key>
+		<string>Requires an active internet connection.</string>
+		<key>LBAuthor</key>
+		<string>Danny Siu</string>
+		<key>LBEmail</key>
+		<string>danny.siu@gmail.com</string>
+		<key>LBWebsite</key>
+		<string>http://dsiu.org/</string>
+		<key>LBTwitter</key>
+		<string>@dsiu</string>
+	</dict>
+	<key>LBDebugLogEnabled</key>
+	<true/>
+</dict>
+</plist>
+

@@ -5,6 +5,8 @@
       <module fileurl="file://$PROJECT_DIR$/douban book.lbaction/douban book.lbaction.iml" filepath="$PROJECT_DIR$/douban book.lbaction/douban book.lbaction.iml" />
       <module fileurl="file://$PROJECT_DIR$/douban movie.lbaction/douban movie.lbaction.iml" filepath="$PROJECT_DIR$/douban movie.lbaction/douban movie.lbaction.iml" />
       <module fileurl="file://$PROJECT_DIR$/douban music.lbaction/douban music.lbaction.iml" filepath="$PROJECT_DIR$/douban music.lbaction/douban music.lbaction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/weather-alfred/weather-alfred.iml" filepath="$PROJECT_DIR$/weather-alfred/weather-alfred.iml" />
+      <module fileurl="file://$PROJECT_DIR$/weather.lbaction/weather.lbaction.iml" filepath="$PROJECT_DIR$/weather.lbaction/weather.lbaction.iml" />
     </modules>
   </component>
 </project>
