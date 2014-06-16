@@ -1,10 +1,11 @@
 // The 'run' function is called by LaunchBar when the user opens the action.
+include('weather.js');
 
 function run( argument ) {
 
   if ( argument != undefined ) {
-//    var musics = new Musics(argument);
-//    return musics.getSuggestions();
+      var weather = new Weather();
+      return weather.getForecast();
   }
   else {
     // No argument passed, just open the website:
