@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/douban book.lbaction/douban book.lbaction.iml" filepath="$PROJECT_DIR$/douban book.lbaction/douban book.lbaction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/douban movie.lbaction/douban movie.lbaction.iml" filepath="$PROJECT_DIR$/douban movie.lbaction/douban movie.lbaction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/douban music.lbaction/douban music.lbaction.iml" filepath="$PROJECT_DIR$/douban music.lbaction/douban music.lbaction.iml" />
+<<<<<<< HEAD
+      <module fileurl="file://$PROJECT_DIR$/eese.lbaction/eese.lbaction.iml" filepath="$PROJECT_DIR$/eese.lbaction/eese.lbaction.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/evernote-search.lbaction/evernote-search.lbaction.iml" filepath="$PROJECT_DIR$/evernote-search.lbaction/evernote-search.lbaction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/launchbar-actions.iml" filepath="$PROJECT_DIR$/launchbar-actions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/weather-alfred/weather-alfred.iml" filepath="$PROJECT_DIR$/weather-alfred/weather-alfred.iml" />
+      <module fileurl="file://$PROJECT_DIR$/weather.lbaction/weather.lbaction.iml" filepath="$PROJECT_DIR$/weather.lbaction/weather.lbaction.iml" />
+>>>>>>> weather
+    </modules>
+  </component>
+</project>
